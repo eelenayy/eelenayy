@@ -21,4 +21,4 @@ Python (NumPy, PyTorch) · MATLAB · C/C++ (embedded) · PlatformIO · ESP32 · 
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/elenay-s-1b6712249)
+[elenay.sarioglu@metu.edu.tr](mailto:elenay.sarioglu@metu.edu.tr)
